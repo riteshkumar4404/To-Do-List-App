@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AddNoteForm should render without error 1`] = `ShallowWrapper {}`;
+
+exports[`AddNoteForm testing should render a AddNote and trigger handleChange function 1`] = `ShallowWrapper {}`;
+
+exports[`AddNoteForm testing2 it should render without any error  1`] = `ShallowWrapper {}`;
