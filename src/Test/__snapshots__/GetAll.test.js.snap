@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GetAllNote should render without error 1`] = `ShallowWrapper {}`;
+
+exports[`GetAllNote testing should render a AddNote and trigger handleChange function 1`] = `ShallowWrapper {}`;
+
+exports[`GetAllNote testing2 it should render without any error  1`] = `ShallowWrapper {}`;
