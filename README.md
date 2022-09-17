@@ -1,3 +1,7 @@
+## To-Do-List-App
+App to add list of task to be completed
+The app contains the list of Current task and Completed task. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
